@@ -29,3 +29,16 @@ input {
 a {
   font-weight: 600;
 }
+
+.goBack {
+    width: 10%;
+    margin: 25px; 
+    display: none; 
+}
+
+.messageSentSuccess {
+    color: #28e059; 
+    padding: 10px; 
+    font-size: 30px;
+    display: none; 
+}
